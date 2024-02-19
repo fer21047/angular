@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login y registro en Angular 
 - Este proyecto cuenta con un registro y login utilizando json Server, esta hecho en angular.
 
@@ -37,3 +38,6 @@ git clone https://github.com/111linblink/AplicacionesWeb.git
 
 
 
+=======
+# angular
+>>>>>>> b89fa591482ff892497d81a280c209f027875057
