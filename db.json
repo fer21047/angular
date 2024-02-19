@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "dd8a",
+      "fullName": "Fernando Moncada",
+      "email": "Yvmgfer@gmail.com",
+      "password": "$2a$10$V3q7EySudj4dS7D.vueftO3Ct2e58w98JsOQc5ZkzUlJcD1MIjapW"
+    },
+    {
+      "id": "883d",
+      "fullName": "Laura",
+      "email": "lau@gmail.com",
+      "password": "$2a$10$W7lRYDJqenUQmsvr9G2DdugwdxOORkIYiK5iH4AYpObrWa5/6w5ce"
+    }
+  ]
+}
